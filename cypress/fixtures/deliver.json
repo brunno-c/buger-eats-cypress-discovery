@@ -1,0 +1,52 @@
+{
+    "signup": {
+        "name": "Rolas da BX",
+            "cpf": "00000014141",
+            "email": "rolasdabx@hotmail.com",
+            "whatsapp": "11999999999",
+            "address": {
+                "postalcode": "04534011",
+                "rua": "Rua Joaquim Floriano",
+                "number": "1000",
+                "complemento": "próximo a quadra de futsal",
+                "bairro": "Itaim Bibi",
+                "cidade_uf": "São Paulo/SP"
+            },
+            "metodo_entrega": "Moto",
+            "cnh": "cnh-digital.jpg"
+    },
+
+    "cpf_invalido": {
+        "name": "João Lucas",
+        "cpf": "x00000000012AA",
+        "email": "joao@hotmail.com",
+        "whatsapp": "11999999999",
+        "address": {
+            "postalcode": "04534011",
+            "rua": "Rua Joaquim Floriano",
+            "number": "25000",
+            "complemento": "Apto 111",
+            "bairro": "Itaim Bibi",
+            "cidade_uf": "São Paulo/SP"
+        },
+        "metodo_entrega": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+
+    "email_inv": {
+        "name": "Rolas da BX",
+            "cpf": "00000014141",
+            "email": "rolasdabx.com",
+            "whatsapp": "11999999999",
+            "address": {
+                "postalcode": "04534011",
+                "rua": "Rua Joaquim Floriano",
+                "number": "1000",
+                "complemento": "próximo a quadra de futsal",
+                "bairro": "Itaim Bibi",
+                "cidade_uf": "São Paulo/SP"
+            },
+            "metodo_entrega": "Moto",
+            "cnh": "cnh-digital.jpg"
+    }
+}
